@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Discord",
+  "icons": [
+    {
+      "src": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg",
+      "type": "image/svg+xml",
+      "purpose": "monochrome",
+      "sizes": "any"
+    },
+    {
+      "src": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ac3c481f273141736_icon_clyde_black_RGB.png",
+      "type": "image/png",
+      "purpose": "monochrome",
+      "sizes": "619x469"
+    },
+    {
+      "src": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg",
+      "type": "image/svg+xml",
+      "purpose": "any",
+      "sizes": "any"
+    },
+    {
+      "src": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
+      "type": "image/png",
+      "purpose": "any",
+      "sizes": "619x469"
+    }
+  ],
+  "start_url": "https://discord.com/channels/@me",
+  "display": "standalone",
+  "theme_color": "#5865F2",
+  "background_color": "#2c2f33"
+}

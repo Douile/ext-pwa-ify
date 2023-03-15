@@ -1,0 +1,5 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "App",
+  "display": "standalone"
+}

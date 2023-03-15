@@ -1,0 +1,17 @@
+{
+  "name": "ext-pwa-ify",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./package.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "web-ext-types": "^3.2.1"
+  }
+}
