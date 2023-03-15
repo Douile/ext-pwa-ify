@@ -1,0 +1,6 @@
+{
+  "extensionDescription": {
+    "message": "Web extension (v2) that adds manifests to webpages without them so they can be installed as PWAs.",
+    "description": "Description of the extension."
+  }
+}
